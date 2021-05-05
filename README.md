@@ -1,4 +1,4 @@
-# INM431-Machine-Learning
+# A Comparison of Naïve Bayes and Random Forest to the Red Wine Dataset
 
 ## Description 🖋️
 
